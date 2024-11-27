@@ -1,24 +1,20 @@
 # grocery
 
-## Project setup
-```
-npm install
-```
+## Users
+It is a multi user ecomerce app. There are three types of users Admin, Manager and Buyer.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## What users can do?
+**Admin**- Approve Managers account, give various permissions **asynchronously**, create categories and sub-categories
 
-### Compiles and minifies for production
-```
-npm run build
-```
+**Manager**- Create products, ask permissions from Admin, create categories and sub-categories
 
-### Lints and fixes files
-```
-npm run lint
-```
+**Buyer**- Cart a product to purchase later, navigate smoothly between products
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Useful Features
+1. Reminders to Buyers every eveing in their mail.
+2. Automated monthly Store/manager report to Admin email
+3. Cache management to run app flawlessly
+
+### Here a simple overview
+
+![9btyh5](https://github.com/user-attachments/assets/5c957287-9476-43c0-84a7-bed8fd8089e1)
