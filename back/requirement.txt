@@ -1,0 +1,8 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-security-too
+flask-bcrypt
+redis
+celery
+flaks-mail
